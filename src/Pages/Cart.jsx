@@ -11,9 +11,9 @@ export default function Cart() {
   const navigate = useNavigate();
   const [orderplaced, setorderplaced] = useState(false);
 
-  const url = "https://graph.facebook.com/v19.0/393936683795043/messages";
+  const url = "";
   const token =
-    "EAAea2RHtXkkBOwtf4PSXmtiBu5ZBIgkCOT0fgJEuY5omjxOEDJlJ9bIqGhypyO5RjUz9ocjndFimTNpxKJeSKOMrtkM8OJYYa63QGq553NgY25LkIcz4xt1m8u9IirQW4ri1c9Pr5pU1PwVD9AZAixR5qAFtK4mIi8IR5Eqss8pOcbUpiIhtrdnBewarbP8aUss85DZBnrnfasIkv3q";
+    "";
 
   const cartSummary = cartItems.map(
     (item) =>
@@ -31,7 +31,7 @@ export default function Cart() {
 
   const payload = {
     messaging_product: "whatsapp",
-    to: "905527389901", //962793056660
+    to: "", //
     type: "template",
     template: {
       name: "order_confirmation",
