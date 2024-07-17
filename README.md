@@ -1,7 +1,8 @@
-![Screenshot (267)](https://github.com/user-attachments/assets/5fc855a7-fb30-4396-a5cd-a2e1b4ad3943)
-![Screenshot (268)](https://github.com/user-attachments/assets/fc747644-40bc-4f24-b285-387696d8e7ec)
-![Screenshot (269)](https://github.com/user-attachments/assets/68ed03ec-c8dc-47d3-93d8-f15828be4657)
-![Screenshot (270)](https://github.com/user-attachments/assets/695b13fc-6219-40ed-b22c-b191e2abbe56)
+![Screenshot (267)](https://github.com/user-attachments/assets/a3537b70-670a-49fc-a689-104d1ad3991b)
+![Screenshot (268)](https://github.com/user-attachments/assets/f54bbffc-1570-47af-be4f-5e016379c359)
+![Screenshot (269)](https://github.com/user-attachments/assets/80897324-9300-48e6-98b0-df625db55d38)
+![Screenshot (270)](https://github.com/user-attachments/assets/75928fda-f689-4dbd-b964-6437c6501be5)
+
 **Super Market Grocery Store Website - Frontend
 **Live Demo[https://motassam-c5f57.web.app/cart]
 
