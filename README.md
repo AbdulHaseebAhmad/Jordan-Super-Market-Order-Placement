@@ -1,3 +1,7 @@
+![Screenshot (267)](https://github.com/user-attachments/assets/5fc855a7-fb30-4396-a5cd-a2e1b4ad3943)
+![Screenshot (268)](https://github.com/user-attachments/assets/fc747644-40bc-4f24-b285-387696d8e7ec)
+![Screenshot (269)](https://github.com/user-attachments/assets/68ed03ec-c8dc-47d3-93d8-f15828be4657)
+![Screenshot (270)](https://github.com/user-attachments/assets/695b13fc-6219-40ed-b22c-b191e2abbe56)
 **Super Market Grocery Store Website - Frontend
 **Live Demo[https://motassam-c5f57.web.app/cart]
 
